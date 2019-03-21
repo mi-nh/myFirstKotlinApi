@@ -1,0 +1,11 @@
+/.mvn
+/.idea
+/target
+/resources
+/tomcat.8080
+mvnw
+mvnw.cmd
+*.iml
+*.ipr
+*.iws
+.DS_Store
